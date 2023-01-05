@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sambeth
 - 👀 I’m interested in Data Engineering and Scala Programming Language
 - 🌱 I’m currently learning Functional Programming with Scala
-- 💞️ I’m looking to collaborate on Data Engineering projects using Scala
+- 💞️ I’m looking to collaborate on Data Engineering projects using Scala or Python
 - 📫 How to reach me ...
 
 <!---
